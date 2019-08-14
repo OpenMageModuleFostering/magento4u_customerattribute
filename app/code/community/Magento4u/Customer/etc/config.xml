@@ -2,7 +2,7 @@
 <config>
     <modules>
         <Magento4u_Customer>
-            <version>1.0.0</version>
+            <version>1.0.1</version>
         </Magento4u_Customer>
     </modules>
     <global>
