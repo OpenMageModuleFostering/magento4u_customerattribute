@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Magento4u_CustomerAttribute",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "Add custom attribute to customer entity",
+    "authors": [
+    {
+        "name": "Suman Kar",
+        "email": "suman.jis@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
